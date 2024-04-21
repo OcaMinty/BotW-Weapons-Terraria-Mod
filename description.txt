@@ -1,0 +1,45 @@
+BotW Weapons+... v4.1!!
+
+-------------------------------------
+/~/ Additions /~/
+-------------------------------------
+
+- Added Savage Lynel Bow
+	- Shoots 3 arrows at the cost of 1.
+	- Wider spread than Duplex Bow, encouraging you to get close.
+
+- Added Tree Branch
+	- Pointless but iconic.
+
+- Added Torch
+	- Click to hold out the torch to light up your surroundings!
+	- Inflicts burning.
+
+- Removed Trader NPC
+
+- Removed Malice Skull pet
+
+- Removed Master Sword, may return later.
+
+-------------------------------------
+/~/ Bug Fixes, Balancing, and other Tweaks /~/
+-------------------------------------
+
+- Sprite changes
+	- Ice Keese, Fire Keese, and Electric Keese buff icons.
+	- One Hit Obliterator
+
+- Thunderblade, Frostblade, and Flameblade are no longer rapier-like shortswords, and are now swinging swords.
+
+- Thunderblade, Frostblade, and Flameblade hitboxes doubled.
+
+- Many weapons now produce light
+	- Flameblade, Flamespear, Frostblade, Frostspear, Thunderblade, Thunderspear
+
+- Custom menu sprites has been greatly improved.
+
+- Damage values tweaked for all weapons.
+
+- Crafting ingredients tweaked for all weapons, most are now hardmode.
+
+- Bow of Light only shoots light arrows now. Also uses no ammo. Light Arrows still exist to use for other weapons though.
